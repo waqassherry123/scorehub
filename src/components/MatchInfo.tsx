@@ -1,4 +1,4 @@
-import { Match } from "../types/prediction";
+import type { Match } from "../types/prediction";
 import formatDate from "../utils/formatDate";
 
 export default function MatchInfo({ match }: { match: Match }) {
