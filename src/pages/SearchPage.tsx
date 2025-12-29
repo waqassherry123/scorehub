@@ -1,7 +1,7 @@
 import { useState } from "react";
 import SearchBar from "../components/SearchBar";
 import Tabs from "../components/Tabs";
-import PredictionCard from "../components/PredictionCard";
+import PredictionCard from "../components/PredictionCard"; 
 import { mockPredictions } from "../services/predictions";
 import { ChevronLeft } from "lucide-react";
 
